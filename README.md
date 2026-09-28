@@ -135,4 +135,4 @@ An internal SQL database backup was directly downloadable, without authenticatio
 
 Assessment conducted by **Sheeza Alam Khan**, Cybersecurity Intern, Networkwalks Technologies.
 
-Connect: [LinkedIn](#) · [GitHub](#)
+
